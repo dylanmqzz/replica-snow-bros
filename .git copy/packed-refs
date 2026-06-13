@@ -1,0 +1,19 @@
+# pack-refs with: peeled fully-peeled sorted 
+363f4ca0d6b17140261d69a264f123c6ef16d36c refs/remotes/origin/Acomodo-recorrido-infinito-del-jugador
+8cd2f0a7042775c7af26d95709ae3996d3875201 refs/remotes/origin/Arreglo-de-apartado-grafico
+3f400a39f722b4e576dfc2a4e7e940e1e6338bdc refs/remotes/origin/Cambios-sprites-y-sus-estados
+31f4995039a2502453392bcf5301020592f1f3be refs/remotes/origin/ControlesConcurrencia
+8593cf8fcd44712aa203b367d213b022bd31bc0c refs/remotes/origin/Estadoi-
+c36f5c79def4360dc18b8e18dfd6ed4e89e3a0f7 refs/remotes/origin/FisicasGravedad
+1c24463d0d6818dde824efecce8c62608ac6d242 refs/remotes/origin/ModeladoSalto
+bf55297105452439ac4c7c5e36c085ca0a2bd503 refs/remotes/origin/Modos-de-Juego
+4d7acb4c354ceed0bfe6b66be281d537b816eec5 refs/remotes/origin/MovimientoEnemigos
+733c358b01f6297393bbc1d8a196d0523ebbc540 refs/remotes/origin/Muestreo-de-vidas-del-jugador-en-panel-nivel
+646ff51509aff2dc5ad4453e1f8b7564087c8b39 refs/remotes/origin/ObserverJugadorMove
+5520f7e8989f1d90602ed6182da9b3e2a3bbff3a refs/remotes/origin/Refactor
+7dc22570abe90a057911f02d1ed71822971434b9 refs/remotes/origin/coliciones
+95bca1e6aa47ca8dabfa506e1403baed99baed76 refs/remotes/origin/efectos
+25ccb50771e3ec38a984d89d57a268579d4e50cc refs/remotes/origin/lanzar
+e83f5047d9c3b5a1e7e19e6381e16b2a84c402cf refs/remotes/origin/main
+2fff2334b80c04b74d81354adcce3e79c81f20e2 refs/remotes/origin/modelado-salto-y-caida
+a04dc26ec6ccda6bb00c8202313ec9a8a965407c refs/remotes/origin/muerteEnemigo

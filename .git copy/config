@@ -1,0 +1,26 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/2025-Proyectos-TdP-2C/p-comision-05.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+	vscode-merge-base = origin/main
+[branch "RefinamientoHelperMovimientoLectura"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/RefinamientoHelperMovimientoLectura
+[branch "comienzo-jefe-MOGHERA"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/comienzo-jefe-MOGHERA
+[branch "AjustesEnJefes"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/AjustesEnJefes

@@ -1,0 +1,39 @@
+0000000000000000000000000000000000000000 e83f5047d9c3b5a1e7e19e6381e16b2a84c402cf dylanmqzz <dylanmisaelmarquez@gmail.com> 1762257588 -0300	clone: from https://github.com/2025-Proyectos-TdP-2C/p-comision-05.git
+e83f5047d9c3b5a1e7e19e6381e16b2a84c402cf 5aac4c0029e11978773a51763f7d7a22fd3f103e dylanmqzz <dylanmisaelmarquez@gmail.com> 1762258807 -0300	pull --tags origin main: Fast-forward
+5aac4c0029e11978773a51763f7d7a22fd3f103e 7824c30088a672dfe923111b118af0a310fb9e62 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762259910 -0300	commit: Repintado de corazones al avanzar nivel
+7824c30088a672dfe923111b118af0a310fb9e62 7824c30088a672dfe923111b118af0a310fb9e62 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762260232 -0300	checkout: moving from main to RefinamientoHelperMovimientoLectura
+7824c30088a672dfe923111b118af0a310fb9e62 8dbbcea106d752f27e360e49b48af9c86440c4a3 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762264357 -0300	commit: ajustes en helperJugador
+8dbbcea106d752f27e360e49b48af9c86440c4a3 1008137d206fdc81be1aa2551748b681e580fe89 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762265500 -0300	commit: agregados animation manager
+1008137d206fdc81be1aa2551748b681e580fe89 266d765694916ab819e251d40499020bcaa498d0 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762269562 -0300	commit: armado arbol animaciones jugador
+266d765694916ab819e251d40499020bcaa498d0 f38aa933be5dcc00e0128b31ce3bd0ae00592e5d dylanmqzz <dylanmisaelmarquez@gmail.com> 1762272693 -0300	commit: parte de las animaciones de jugador
+f38aa933be5dcc00e0128b31ce3bd0ae00592e5d 7824c30088a672dfe923111b118af0a310fb9e62 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762431534 -0300	checkout: moving from RefinamientoHelperMovimientoLectura to main
+7824c30088a672dfe923111b118af0a310fb9e62 01a32a8728c74c649addbcb124d808ec774c906b dylanmqzz <dylanmisaelmarquez@gmail.com> 1762431542 -0300	pull --tags origin main: Fast-forward
+01a32a8728c74c649addbcb124d808ec774c906b 3467ddfffdcd2ea31502f2324d9de2c751ee70cf dylanmqzz <dylanmisaelmarquez@gmail.com> 1762433231 -0300	commit: escalera definitiva
+3467ddfffdcd2ea31502f2324d9de2c751ee70cf 4d203b1b1dcb8cc94783517e685bcd6759484576 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762433280 -0300	commit (merge): Merge branch 'main' of https://github.com/2025-Proyectos-TdP-2C/p-comision-05
+4d203b1b1dcb8cc94783517e685bcd6759484576 15d1b7994ae5a7e3dc1c1dc1cfe7b475335a0bc7 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762433993 -0300	commit: desplazamiento guiado por plataforma movil listo
+15d1b7994ae5a7e3dc1c1dc1cfe7b475335a0bc7 7f558718d68b249b811ecf3c188b489f3ed7ba54 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762433998 -0300	pull --tags origin main: Merge made by the 'ort' strategy.
+7f558718d68b249b811ecf3c188b489f3ed7ba54 486b2dab59bbccc1642d3d962c0e1a0d490a102c dylanmqzz <dylanmisaelmarquez@gmail.com> 1762434134 -0300	commit: arreglo grafica sobre plataforma movil con jugador
+486b2dab59bbccc1642d3d962c0e1a0d490a102c 9354811f06a1b99d7d7bf780474ab915328365cf dylanmqzz <dylanmisaelmarquez@gmail.com> 1762434584 -0300	commit: actualizo parametros hitbox
+9354811f06a1b99d7d7bf780474ab915328365cf d9c3efb0c040503dcd4c9f8365bcb282914dd8fb dylanmqzz <dylanmisaelmarquez@gmail.com> 1762438987 -0300	commit: coloco animacion de muerte de jugador en arbol de animacion
+d9c3efb0c040503dcd4c9f8365bcb282914dd8fb 77ce5465fe2c1b48e18c616647b13895fb08e555 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762443119 -0300	commit: animacion de animacion correcta
+77ce5465fe2c1b48e18c616647b13895fb08e555 77ce5465fe2c1b48e18c616647b13895fb08e555 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762443839 -0300	checkout: moving from main to comienzo-jefe-MOGHERA
+77ce5465fe2c1b48e18c616647b13895fb08e555 ea7c3325f571969e722dac3e781ab5a0aa64ee59 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762448299 -0300	commit: comienzos a incorporar ia y animacion a jefe moghera
+ea7c3325f571969e722dac3e781ab5a0aa64ee59 af38f18a4b9246537f33780df25773cb6e9e5bec dylanmqzz <dylanmisaelmarquez@gmail.com> 1762733988 -0300	pull --tags origin comienzo-jefe-MOGHERA: Fast-forward
+af38f18a4b9246537f33780df25773cb6e9e5bec 77ce5465fe2c1b48e18c616647b13895fb08e555 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762734001 -0300	checkout: moving from comienzo-jefe-MOGHERA to main
+77ce5465fe2c1b48e18c616647b13895fb08e555 ebebd2bf48d5b5d66a4f4d528c7fb63b7d070a73 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762734018 -0300	pull --tags origin main: Fast-forward
+ebebd2bf48d5b5d66a4f4d528c7fb63b7d070a73 0f6e0fbf866daa2b69751ce778b38425ffe5a72a dylanmqzz <dylanmisaelmarquez@gmail.com> 1762740349 -0300	commit: acomodo bombas kamakichi
+0f6e0fbf866daa2b69751ce778b38425ffe5a72a f6c202bd3cbb977f0c12d7da1ab04461ab2fcf20 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762800356 -0300	pull --tags origin main: Fast-forward
+f6c202bd3cbb977f0c12d7da1ab04461ab2fcf20 50c1b32d1c6d1a7226f0870f32c3f36299727873 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762805143 -0300	pull --tags origin main: Fast-forward
+50c1b32d1c6d1a7226f0870f32c3f36299727873 7619bee1be8901d1e69d416d2f9a3de8f62e6c05 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762805802 -0300	pull --tags origin main: Fast-forward
+7619bee1be8901d1e69d416d2f9a3de8f62e6c05 d277fd5de144fda1f96230f3dd2c5bf9e64c563d dylanmqzz <dylanmisaelmarquez@gmail.com> 1762816421 -0300	commit: actualizacion de multiples factores
+d277fd5de144fda1f96230f3dd2c5bf9e64c563d ef61b3106e24ab1665b981cef540b0973bd8b4fe dylanmqzz <dylanmisaelmarquez@gmail.com> 1762816892 -0300	commit (merge): Merge branch 'main' of https://github.com/2025-Proyectos-TdP-2C/p-comision-05
+ef61b3106e24ab1665b981cef540b0973bd8b4fe ba3f298e02fed42982ed190e4166806db055b715 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762859198 -0300	pull --tags origin main: Fast-forward
+ba3f298e02fed42982ed190e4166806db055b715 ba3f298e02fed42982ed190e4166806db055b715 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762863739 -0300	reset: moving to HEAD
+ba3f298e02fed42982ed190e4166806db055b715 ba3f298e02fed42982ed190e4166806db055b715 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762863785 -0300	checkout: moving from main to AjustesEnJefes
+ba3f298e02fed42982ed190e4166806db055b715 e203890b9204889b9f17c3ce216cb6a960d9c1d7 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762863825 -0300	commit: ajuste animacion muerte jugador
+e203890b9204889b9f17c3ce216cb6a960d9c1d7 949e85ee4d88f37edadd1d83e80898b840efb76e dylanmqzz <dylanmisaelmarquez@gmail.com> 1762870652 -0300	commit: cositas chungas en el sapo
+949e85ee4d88f37edadd1d83e80898b840efb76e ba3f298e02fed42982ed190e4166806db055b715 dylanmqzz <dylanmisaelmarquez@gmail.com> 1762971501 -0300	checkout: moving from AjustesEnJefes to main
+ba3f298e02fed42982ed190e4166806db055b715 152a413ab2e29c9229795d2cbc7049f6933da4ce dylanmqzz <dylanmisaelmarquez@gmail.com> 1762971509 -0300	pull --tags origin main: Fast-forward
+152a413ab2e29c9229795d2cbc7049f6933da4ce e249db073df0bec9b2c9c2fe0471d1c7f0c06c8c dylanmqzz <dylanmisaelmarquez@gmail.com> 1763041228 -0300	pull --tags origin main: Fast-forward
+e249db073df0bec9b2c9c2fe0471d1c7f0c06c8c fd0e381255050955a66aa90cc128904e2890306f dylanmqzz <dylanmisaelmarquez@gmail.com> 1763044168 -0300	commit: comienzo a mover metodos a clases mas generales
+fd0e381255050955a66aa90cc128904e2890306f 739ae9ee4c8dd469355a356eebd6125147daec33 dylanmqzz <dylanmisaelmarquez@gmail.com> 1763320935 -0300	pull --tags origin main: Fast-forward

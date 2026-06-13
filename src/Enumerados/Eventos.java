@@ -1,0 +1,19 @@
+package Enumerados;
+
+public enum Eventos {
+    ACTUALIZACION_GRAFICA,
+    COLISION,
+    ELIMINACION,
+    PERDIDAVIDA,
+    SUMA_VIDA,
+    CAMBIO_RESISTENCIA,
+    MUERTE,
+    POW_AZUL,
+    POW_ROJA,
+    POW_VERDE,
+    SUMA_PUNTOS,
+    DOBLE_PUNTOS,
+    SIN_EFECTOS,
+    PUNTOS,
+    EMPUJAR;
+}
